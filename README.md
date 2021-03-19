@@ -1,14 +1,8 @@
-# project1
-demo project
-
-teja srinivas 
-tejasrinivaschinni@gamil.com
-information technology
-
+# PROJECT_1
 # TEJA SRINIVAS _ INFORMATION TECHNOLOGY
-## TS
-### RVR&JCCE
-#### NARASARAOPETA
-##### CHINNI
-###### TS
-####### TEJ
+# Y19IT016
+# TEJASRINIVASCHINNI@GAMIL.COM
+# INFORMATION TECHNOLOGY
+# 9390804732
+# NARASARAOPETA
+
